@@ -1,0 +1,25 @@
+{
+  "name": "express_crud",
+  "version": "1.0.0",
+  "description": "A CRUD API created with express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwik/Express_CRUD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rwik/Express_CRUD/issues"
+  },
+  "homepage": "https://github.com/rwik/Express_CRUD#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "uuid": "^8.3.2"
+  }
+}
