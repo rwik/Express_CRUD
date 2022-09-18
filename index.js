@@ -7,6 +7,7 @@ const PORT = 5000
 app.use(bodyParser.json());
 
 app.use('/', userRouter);
+app.use('/', express.static('public'));
 
 
 
